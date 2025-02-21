@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">MDISuitmediaHilmi</string>
+    <string name="second_screen">Second Screen</string>
+    <string name="selected_user_name">Selected User Name</string>
+    <string name="choose_a_user">Choose a User</string>
+    <string name="welcome">Welcome</string>
+    <string name="userName">John Doe</string>
+    <string name="back_to_prev_layout">Back to prev layout</string>
+    <string name="third_screen">Third Screen</string>
+    <string name="check">Check</string>
+    <string name="next">Next</string>
+    <string name="no_data_available">No data available</string>
+    <string name="name">Name</string>
+    <string name="palindrome">Palindrome</string>
 </resources>
